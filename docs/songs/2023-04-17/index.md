@@ -1,8 +1,8 @@
 ---
 lastUpdated: true
-contributors: true
-externalLinkIcon: true
-date: 2023-04-17
+contributors: false
+externalLinkIcon: false
+date: 2024-10-13
 ---
 # Baba Yetu (Christopher Tin)
 
